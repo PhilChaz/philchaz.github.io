@@ -41,7 +41,7 @@ video {
 }
 
 h1 {
-  font-size: 140px;
+  font-size: 9vw;
   margin: 10px 0 0 0;
   padding: 0;
   line-height: 1.2;
@@ -172,7 +172,7 @@ hr {
   font-size: 16px;
   font-family: Helvetica;
   font-weight: 300;
-  line-height: 1.5;
+  line-height: 1;
   max-width: 1400px;
   overflow-x: auto;
 }
@@ -601,7 +601,6 @@ ol.nested>li:before {
   align-content: stretch;
   box-sizing: border-box;
   width: 100%;
-  padding: 0 10px;
 }
 
 .gallery a {
